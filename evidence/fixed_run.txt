@@ -1,0 +1,7 @@
+Skipped invalid trip for R2: Passenger count must be a non-negative integer
+Skipped invalid trip for R3: Passenger count must be a non-negative integer
+Driver for R1: Tom
+Underused: ['R2']
+R1 average: 30.0
+Removed R3 from the active fleet.
+Route to look up (Enter for R2): Trips on R2 : [4]

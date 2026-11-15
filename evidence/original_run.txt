@@ -1,0 +1,14 @@
+Driver for R1: Tom
+Underused: ['R2']
+R1 average: 30.0
+Route to look up (Enter for R2): Trips on R2 : [4, -6]
+Traceback (most recent call last):
+  File "C:\Users\Manishgowda\Documents\Codex\2026-11-15\https-github-com-setapesu26-l6-l7-2\work\lab5_repository\baseline\shuttle_system.py", line 60, in <module>
+    main()
+  File "C:\Users\Manishgowda\Documents\Codex\2026-11-15\https-github-com-setapesu26-l6-l7-2\work\lab5_repository\baseline\shuttle_system.py", line 58, in main
+    print("R3 average:", average_load("R3"))
+                         ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Manishgowda\Documents\Codex\2026-11-15\https-github-com-setapesu26-l6-l7-2\work\lab5_repository\baseline\shuttle_system.py", line 20, in average_load
+    trips = routes[route_id]["trips"]
+            ~~~~~~^^^^^^^^^^
+KeyError: 'R3'

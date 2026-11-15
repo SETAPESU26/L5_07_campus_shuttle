@@ -1,0 +1,9 @@
+shuttle_system.py:15:1: E302 expected 2 blank lines, found 1
+shuttle_system.py:21:1: E302 expected 2 blank lines, found 1
+shuttle_system.py:35:1: E302 expected 2 blank lines, found 1
+shuttle_system.py:40:1: E302 expected 2 blank lines, found 1
+shuttle_system.py:45:1: E302 expected 2 blank lines, found 1
+shuttle_system.py:52:1: E302 expected 2 blank lines, found 1
+shuttle_system.py:57:1: E302 expected 2 blank lines, found 1
+shuttle_system.py:70:1: E302 expected 2 blank lines, found 1
+shuttle_system.py:100:1: E305 expected 2 blank lines after class or function definition, found 1
